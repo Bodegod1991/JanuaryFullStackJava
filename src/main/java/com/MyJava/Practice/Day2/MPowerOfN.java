@@ -8,7 +8,7 @@ public class MPowerOfN {
 
         double MPowerN = Math.pow(M, N);
         System.out.println("out put is :" + MPowerN);
-
+//This is formula for MpoerofN
     }
 
 
